@@ -1,3 +1,4 @@
+#Walmart Sales Analysis
 Basically, this project was all about trying to figure out what factors affect sales at Walmart stores. We looked at data from 20 different Walmart locations to see how things like holidays, temperature, fuel prices, inflation rates, and unemployment levels impact how much people buy.
 We used some statistical techniques like regression analysis to see which variables were most important for predicting sales. We also made some neat visualizations with scatter plots, bar charts, and line graphs to spot patterns in the data.
 Here are the key takeaways from analysis:
